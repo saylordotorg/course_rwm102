@@ -1,3 +1,10 @@
+---
+layout: default
+title: "RWM102: Algebra"
+course_description: "This course discusses how to use algebra for a variety of everyday tasks, such as calculate change without specifying how much money is to be spent on a purchase, analyzing relationships by graphing, and describing real-world situations in business, accounting, and science."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Graphs of Linear Equations and Inequalities** <span
 id="5"></span> 
 *This unit is an introduction to graphing relationships between the two

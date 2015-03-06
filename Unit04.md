@@ -1,3 +1,10 @@
+---
+layout: default
+title: "RWM102: Algebra"
+course_description: "This course discusses how to use algebra for a variety of everyday tasks, such as calculate change without specifying how much money is to be spent on a purchase, analyzing relationships by graphing, and describing real-world situations in business, accounting, and science."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Inequalities** <span id="4"></span> 
 *You probably use inequalities, just like equations, in everyday life
 without thinking about it.  Every time you go to the store, you need to

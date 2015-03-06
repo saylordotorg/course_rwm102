@@ -1,3 +1,10 @@
+---
+layout: default
+title: "RWM102: Algebra"
+course_description: "This course discusses how to use algebra for a variety of everyday tasks, such as calculate change without specifying how much money is to be spent on a purchase, analyzing relationships by graphing, and describing real-world situations in business, accounting, and science."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Variables and Variable Expressions** <span id="1"></span> 
 *When most people think of math, they think of numbers.  However, with
 this math course, you will be working with letters.  In algebra, letters

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "RWM102: Algebra"
+course_description: "This course discusses how to use algebra for a variety of everyday tasks, such as calculate change without specifying how much money is to be spent on a purchase, analyzing relationships by graphing, and describing real-world situations in business, accounting, and science."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Linear Equations** <span id="2"></span> 
 *You, like other people, probably use equations in everyday life without
 even realizing it.  Calculating a unit price to figure out which brand

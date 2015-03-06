@@ -1,3 +1,10 @@
+---
+layout: default
+title: "RWM102: Algebra"
+course_description: "This course discusses how to use algebra for a variety of everyday tasks, such as calculate change without specifying how much money is to be spent on a purchase, analyzing relationships by graphing, and describing real-world situations in business, accounting, and science."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Systems of Linear Equations and Inequalities** <span
 id="6"></span> 
 *You have seen in Units 2 and 5 that linear equations in one variable

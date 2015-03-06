@@ -1,3 +1,10 @@
+---
+layout: default
+title: "RWM102: Algebra"
+course_description: "This course discusses how to use algebra for a variety of everyday tasks, such as calculate change without specifying how much money is to be spent on a purchase, analyzing relationships by graphing, and describing real-world situations in business, accounting, and science."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Operations with Monomials** <span id="7"></span> 
 *Starting with this unit, you will work with expressions that consist
 mostly of letters (variables) and do not seem to have very much to do

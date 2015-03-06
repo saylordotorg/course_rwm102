@@ -1,3 +1,10 @@
+---
+layout: default
+title: "RWM102: Algebra"
+course_description: "This course discusses how to use algebra for a variety of everyday tasks, such as calculate change without specifying how much money is to be spent on a purchase, analyzing relationships by graphing, and describing real-world situations in business, accounting, and science."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Factoring Polynomials** <span id="9"></span> 
 *Factoring, the procedure you will learn to perform in this unit, is
 multiplication in reverse*: *instead of multiplying two polynomials, you

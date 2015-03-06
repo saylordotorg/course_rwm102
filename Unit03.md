@@ -1,3 +1,10 @@
+---
+layout: default
+title: "RWM102: Algebra"
+course_description: "This course discusses how to use algebra for a variety of everyday tasks, such as calculate change without specifying how much money is to be spent on a purchase, analyzing relationships by graphing, and describing real-world situations in business, accounting, and science."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Word Problems** <span id="3"></span> 
 *In this unit, you will apply the skill of solving equations you
 mastered in Unit 2 to solve various types of word problems.  When you

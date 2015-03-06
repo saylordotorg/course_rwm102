@@ -1,3 +1,10 @@
+---
+layout: default
+title: "RWM102: Algebra"
+course_description: "This course discusses how to use algebra for a variety of everyday tasks, such as calculate change without specifying how much money is to be spent on a purchase, analyzing relationships by graphing, and describing real-world situations in business, accounting, and science."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Operations with Polynomials** <span id="8"></span> 
 *In this unit, you will become familiar with a special type of algebraic
 expressions, called a polynomial.  A* polynomial*, as opposed to a
